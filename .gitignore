@@ -1,0 +1,8 @@
+vendor/
+.vscode/
+*.log
+composer.lock
+composer.phar
+samples/*.pkl
+samples/*.model
+/python-envs
